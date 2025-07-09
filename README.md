@@ -38,7 +38,7 @@ A interface possui:
     - ❌ Sair
 
 
-git clone <https://github.com/seuusuario/seurepositorio.git>
+git clone <https://github.com/seuusuario/seurepositorio.git>](https://github.com/ManoTiigas/sistema-cadastro)
 cd seurepositorio
 
 2. Instale as dependências:
